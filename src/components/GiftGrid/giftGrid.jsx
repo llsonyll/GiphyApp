@@ -1,3 +1,4 @@
+import PropTypes from "prop-types";
 import "./giftGrid.css";
 
 import GiftItem from "../GiftItem";
@@ -17,6 +18,10 @@ const GiftGrid = ({ category }) => {
       </ol>
     </>
   );
+};
+
+GiftGrid.propTypes = {
+  category: PropTypes.string.isRequired,
 };
 
 export default GiftGrid;

@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Add Category Test should receive a function as prop 1`] = `
+<div>
+  <div
+    class="addCategory"
+  >
+    <form
+      aria-label="form"
+    >
+      <input
+        placeholder="Buscar gifs"
+        type="text"
+        value=""
+      />
+    </form>
+  </div>
+</div>
+`;

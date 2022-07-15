@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GiftExpertApp Test should render GiftExpertApp component 1`] = `
+<div>
+  <h1>
+    GifExpertApp
+  </h1>
+  <div
+    class="addCategory"
+  >
+    <form
+      aria-label="form"
+    >
+      <input
+        placeholder="Buscar gifs"
+        type="text"
+        value=""
+      />
+    </form>
+  </div>
+  <h3>
+     
+    One Punch
+  </h3>
+  <p
+    class="loading"
+  >
+     Cargando... 
+  </p>
+  <ol
+    class="card-grid"
+  />
+</div>
+`;

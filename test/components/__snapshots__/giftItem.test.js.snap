@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas del GIFT-ITEM component should match snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Titulo"
+      src="https://punch.com/saitama.jpg"
+    />
+    <p>
+       
+      Titulo
+       
+    </p>
+  </div>
+</div>
+`;
